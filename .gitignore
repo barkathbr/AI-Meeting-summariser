@@ -1,0 +1,11 @@
+venv/
+ollama_env/
+upload/
+uploads/
+#audio files
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.aac
+*.ogg
